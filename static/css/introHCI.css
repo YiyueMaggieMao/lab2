@@ -32,10 +32,3 @@ body {
      position: absolute;
      z-index: -1;	
 }
-
-.project {
-     margin-left: 20px;
-     background-color: #e6ffff;
-     padding: 20px;
-     max-width: 520px;
-}
